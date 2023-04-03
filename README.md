@@ -1,2 +1,6 @@
 # project-1
-hw-1 practice push
+
+## description
+Adjust both HTML and CSS code so that the website matches the reference website
+
+##
